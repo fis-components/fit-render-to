@@ -1,0 +1,13 @@
+{
+    "name": "fit-render-to",
+    "description": "render component to any dom",
+    "repos": "https://github.com/tb-component/fit-render-to.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "react": "^0.14.6",
+        "react-dom": "^0.14.6"
+    },
+    "version": "1.0.1"
+}
