@@ -1,7 +1,7 @@
 {
     "name": "fit-render-to",
     "description": "render component to any dom",
-    "repos": "https://github.com/tb-component/fit-render-to.git",
+    "repos": "https://github.com/tb-component/pc-render-to.git",
     "main": "lib/index.js",
     "tag": "master",
     "reposType": "npm",
@@ -9,5 +9,5 @@
         "react": "^0.14.6",
         "react-dom": "^0.14.6"
     },
-    "version": "1.0.1"
+    "version": "1.0.2"
 }
